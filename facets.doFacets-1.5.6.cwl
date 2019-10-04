@@ -91,7 +91,7 @@ inputs:
       prefix: --purity_min_nhet
 
   dipLogR:
-    type: ['null', string]
+    type: ['null', float]
     doc: diploid log ratio
     inputBinding:
       prefix: --dipLogR
