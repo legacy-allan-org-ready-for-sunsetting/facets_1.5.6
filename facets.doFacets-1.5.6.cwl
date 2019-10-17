@@ -7,7 +7,7 @@ id: facets-doFacets
 requirements:
   InlineJavascriptRequirement: {}
   DockerRequirement:
-    dockerPull: roslin/pipeline-facets:1.5.6
+    dockerPull: cmopipeline/facets-htstools:2.2.2
   ResourceRequirement:
     ramMin: 32000
     coresMin: 4
